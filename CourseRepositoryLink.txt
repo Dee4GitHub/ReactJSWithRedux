@@ -1,0 +1,32 @@
+Udemy Course Name: React js. From the beginning. w/ Redux and React Router
+Course Author: Robert Bunch
+
+Github repo: https://github.com/robertbunch/reactFromTheBeginning
+
+Environment Setup (skip if you have node installed already)
+
+React 101
+
+State and Events
+
+The Component Lifecycle and HTTP
+
+Project 1 - Flash Card app (AWS services)
+
+React Router
+
+Redux
+
+Redux Middleware (redux-promise and redux-thunk)
+
+AirBnB Clone with Redux
+
+Overview of Auth From a Front-end Perspective
+
+Building/Preparing React for Deployment
+
+Hooks - the "2020 way" to do React
+
+Context
+
+Supplemental - ES6 for React
